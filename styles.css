@@ -1,0 +1,22 @@
+
+body {
+  background-color: #00D1AC;
+}
+
+h1{
+  font-size: 50px;
+  color: red;
+}
+
+#menu{
+  background-color: white;
+}
+
+
+.the-menu{
+  background-color: blue;
+  color: purple;
+}
+li.the-menu {
+  font-size: 15px;
+}
